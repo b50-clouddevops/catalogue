@@ -2,4 +2,5 @@
 
 env.COMPONENT="catalogue"
 env.APPTYPE="nodejs"
-nodejs()
+// nodejs()
+docker()
